@@ -1,0 +1,53 @@
+* {
+background-color: rgb(12, 119, 71);
+
+}
+
+
+h1{
+    color: rgb(0, 55, 255);
+}
+
+.paragrafo{
+    background-color: rgb(222, 224, 220);
+}
+
+#aula{
+    
+}
+
+.aa:hover{
+   
+    color: rgb(190, 12, 12);
+    background-color: aqua;
+
+}
+
+.aa {
+    margin: 50px;
+    padding: 30px;
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    border: 1px solid rgb(254, 254, 254);
+
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+
+ul li{
+    margin: 20px;
+    color: cornsilk;
+}
+
+ol li{
+    color: gold;
+}
