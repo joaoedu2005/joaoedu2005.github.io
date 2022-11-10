@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+header{
+    height: 18vh;
+}
+
+.margin{
+    margin-left: 4rem;
+    margin-right: 4rem;
+    margin-top: 1rem;
+}
+.logo img{
+    height: 122px;
+    width: 159px;
+    
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
